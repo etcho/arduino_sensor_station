@@ -12,3 +12,5 @@ All the information are displayed on a 20x4 lcd display. It has a GPS module, a 
 - Altitude (GPS)
 - Speed (GPS)
 - Compass when in movement (GPS)
+
+There is a button to set/unset the zero for altitude, for easy altitude measuring. It's also displayed the current change of altitude level, showing and arrow up or down if the box is ascending or descending.
